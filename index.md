@@ -13,10 +13,6 @@
       <p><b>- ✍️ [Blogger][博客园]<https://home.cnblogs.com/u/laysfq></b></p>
       <p><b>- 🖋 email：fq199911@163.com</b></p>
       <p><b>- 🖋 qq：2725281280</b></p>
-      
-    </td>
-    <td width="25%">
-      <img src="/fq.jpg" width="100%">  
-    </td>
+
   </tr>
 </table>
